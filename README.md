@@ -1,6 +1,15 @@
 # Sed-hosted Spatio-Temporal MPM
 From Geodynamic Preconditioning to Mineral System Fertility: A Spatio-Temporal Analysis of Craton-Edge Sediment-Hosted Deposits
 
+This workflow consists mainly of two parts. 
+
+
+The first part, involving feature extraction and deposit–craton analysis, is adopted from the framework developed by Shirmard et al., 2025, 2026) and has been further refined to extract relevant features. 
+
+
+The second part is based on the mineral prospectivity (STAMP) framework, which was originally developed for porphyry mineralisation, particularly its machine-learning and prospectivity-mapping methodology. In this study, the framework has been adapted for sediment-hosted mineral systems (Farahbakhsh et al., 2023, 2025).
+
+
 ## Flowcharts of running notebooks for the sed-hosted STAMP Project:  
 
 1-	Run  01_CalculateSpatialRelationships.ipynb. Craton boundary lines should be segmented by their azimuth (every 30 degree change)
