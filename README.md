@@ -3,7 +3,7 @@ From Geodynamic Preconditioning to Mineral System Fertility: A Spatio-Temporal A
 
 ## Flowcharts of running notebooks for the sed-hosted STAMP Project:  
 
-1-	Craton boundary lines should be segmented by their azimuth (every 30 degree change) - 01_CalculateSpatialRelationships(.ipynb)
+1-	Run  01_CalculateSpatialRelationships.ipynb. Craton boundary lines should be segmented by their azimuth (every 30 degree change)
 
 
 2-	Assign plate ID to segmented craton boundaries in the GPlates software by looking at their movement based on the reconstruction model
