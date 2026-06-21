@@ -10,7 +10,7 @@ https://doi.org/10.1038/s41467-026-74134-5
 
 
 The second part is based on the mineral prospectivity (STAMP) framework, which was originally developed for porphyry mineralisation, particularly its machine-learning and prospectivity-mapping methodology. In this study, the framework has been adapted for sediment-hosted mineral systems (Farahbakhsh et al., 2023, 2025).
-https://doi.org/10.1029/2024TC008362
+DOI: https://doi.org/10.1029/2024TC008362
 https://doi.org/10.1016/j.oregeorev.2023.105665
 
 ## Flowcharts of running notebooks for the sed-hosted STAMP Project:  
