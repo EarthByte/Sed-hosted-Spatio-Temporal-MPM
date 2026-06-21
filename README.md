@@ -4,7 +4,7 @@ From Geodynamic Preconditioning to Mineral System Fertility: A Spatio-Temporal A
 This workflow consists mainly of two parts. 
 
 
-The first part, involving feature extraction and deposit–craton analysis, is adopted from the framework developed by Shirmard et al., 2025, 2026) and has been further refined to extract relevant features. 
+The first part, involving feature extraction and deposit–craton analysis, is adopted from the framework developed by Shirmard et al. (2025, 2026) and has been further refined to extract relevant features. 
 
 
 DOI: https://doi.org/10.1016/j.gsf.2025.102176
