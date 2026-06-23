@@ -39,10 +39,10 @@ DOI: https://doi.org/10.1016/j.oregeorev.2023.105665
 5-	Run Movie_Paleo.ipynb notebook to double-check deposits and craton boundaries dance along with other topologies.
 
 
-6-	Run 02_reconstruction_coregistration.ipynb to create backarc_coords and unlabelled_coords csv files.
+6-	Run reconstruction_coregistration.ipynb to create backarc_coords and unlabelled_coords csv files.
 
 
-7-	Run 02_Feature_Extraction_Deposits_Paleo.ipynb for deposit_coords and 02_Feature_Extraction_Target_Areas_Paleo.ipynb for unlabelled and backarc_coords. These will extract features for those files called *_data.
+7-	Run Feature_Extraction_Deposits_Paleo.ipynb for deposit_coords and Feature_Extraction_Target_Areas_Paleo.ipynb for unlabelled and backarc_coords. These will extract features for those files called *_data.
 
 
 8-	Run 03_feature_analysis.ipynb
