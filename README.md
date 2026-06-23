@@ -1,4 +1,9 @@
 # Sed-hosted Spatio-Temporal MPM
+
+
+[![DOI](https://zenodo.org/badge/1275717989.svg)](https://doi.org/10.5281/zenodo.20806346)
+
+
 ###  From Geodynamic Preconditioning to Mineral System Fertility: A Spatio-Temporal Analysis of Craton-Edge Sediment-Hosted Deposits
 
 This workflow consists mainly of two parts. 
