@@ -22,7 +22,7 @@ DOI: https://doi.org/10.1029/2024TC008362
 DOI: https://doi.org/10.1016/j.oregeorev.2023.105665
 
 
-## Flowcharts of running notebooks for the sed-hosted Spatio-Temporal MPM Project:  
+## Flowcharts of running notebooks for the Sed-Hosted Spatio-Temporal MPM project:  
 
 1-	Run  01_CalculateSpatialRelationships.ipynb. Craton boundary lines should be segmented by their azimuth (every 30 degree change)
 
